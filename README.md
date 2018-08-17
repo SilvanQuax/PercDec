@@ -3,6 +3,7 @@
 ## Introducion
 This repository contains the code and data to reproduce the findings from our paper.
 
+All wrappers can be found in the 'examples' folder:  
 test_dynamic_task4.py is the wrapper to train a reinforcement learning agent.  
 test_dynamic_task_sup is the wrapper to train a supervised agent.  
 Load_task4_final generates all reinfrocement learning figures from the paper.  
