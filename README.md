@@ -1,11 +1,11 @@
-Reinforcement learning of perceptual decision making
+# Reinforcement learning of perceptual decision making
 
-Introducion
+## Introducion
 This repository contains the code and data to reproduce the findings from our paper.
 
 Figures_paper.ypnb generates all figures from the paper.
 
-Requirements
+## Requirements
 Code is written in Python.
 
-Citation
+## Citation
