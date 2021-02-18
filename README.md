@@ -10,10 +10,10 @@ Load_task4_final generates all reinfrocement learning figures from the paper.
 Load_supervised_final generates all supervised figures from the paper.  
 
 ## Requirements
-Code is written in Python. Neural networks are based on the Chainer library [1]
+Code is written in Python 2.7. Neural networks are based on the Chainer library [1]
 
 Required libraries:
-- Chainer v3
+- Chainer V1
 - Numpy
 - Scipy
 - Matplotlib
